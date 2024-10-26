@@ -1,0 +1,5 @@
+websocket
+websocket-client
+json
+python-binance
+datetime
